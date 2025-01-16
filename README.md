@@ -77,3 +77,5 @@ ________________________________________
 [FINALIZAÇÃO]
 E assim chegamos ao fim de mais um episódio do Bagagem de Histórias. Espero que as dicas de hoje te inspirem a explorar a Itália no inverno ao lado da sua família. Viajar é mais do que conhecer lugares; é criar histórias que ficarão guardadas para sempre no coração dos nossos pequenos.
 Eu sou Tatiana Fernandes, e esse foi o Bagagem de Histórias dessa semana. Até o próximo destino!
+
+![image](https://github.com/user-attachments/assets/0dfa001c-c9bd-4d04-bb70-91dbb66799f6)
